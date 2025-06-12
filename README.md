@@ -1,4 +1,9 @@
 # Intern-project
+PYTHON PROJECTS – CODEALPHA INTERNSHIP
+Name:  Kumaradharani M 
+Domain:  Python Programming  
+Internship Provider: CodeAlpha  
+
 OVERVIEW
 
 This repository contains four mini-projects developed during the Python internship at CodeAlpha. Each task demonstrates real-world Python applications, including games, automation, AI-based interaction, and financial utilities.
